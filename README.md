@@ -4,7 +4,7 @@ I'm Daniel D. Tripp, a passionate and results-driven Software Engineer from San 
 
 Here's a glimpse into what I'm up to:
 
-- 🔭 **Recently Worked On:** Enhancing data security and automation, contributing to Kubernetes infrastructure and developing feature-rich financial speculation platforms.
+- 🔭 **Recently Worked On:** Enhancing data security and automation and contributing to Kubernetes infrastructure.
 
 - 🌱 **Currently Learning:** Always expanding my knowledge in distributed systems, cloud computing, and exploring new tools and technologies.
 
