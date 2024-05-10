@@ -14,8 +14,6 @@ Here's a glimpse into what I'm up to:
 
 - 💬 **Ask Me About:** My experiences in software engineering, cloud technologies, or any questions related to my projects and experiences.
 
-- 📫 **How to Reach Me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danieldtripp) or drop me an email at [daniel.tripp100@gmail.com](mailto:daniel.tripp100@gmail.com).
-
 - 😄 **Pronouns:** He/Him
 
 - ⚡ **Fun Fact:** I'm an avid boulderer, conquering rock faces and challenging bouldering problems whenever I can. 🧗
