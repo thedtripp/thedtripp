@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel D. Tripp, a passionate and results-driven Software Engineer from San Francisco. Welcome to my GitHub profile! 👨‍💻
+I'm D. Tripp, a passionate and results-driven Software Engineer from San Francisco. Welcome to my GitHub profile! 👨‍💻
 
 Here's a glimpse into what I'm up to:
 
