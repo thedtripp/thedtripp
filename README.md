@@ -1,3 +1,5 @@
+![Daniel Tripp: I build the systems that keep working at 3am](assets/banner.png)
+
 ### Hi, I'm Daniel
 
 Infrastructure and platform engineer in the Bay Area. I build Kubernetes-native control planes, database infrastructure, and the observability and on-call tooling around them.
